@@ -1,2 +1,2 @@
-# lawyer-website-project
-A personal project to develop a professional website for my father
+#lawyer-website-project
+#lawyer-website-project
