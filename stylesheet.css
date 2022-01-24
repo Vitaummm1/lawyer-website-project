@@ -20,6 +20,14 @@ h1{
     font-weight: bolder;
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
+
+}
+
+h2{
+    font-weight: bolder;
+    font-family: 'Oswald', sans-serif;
+    text-transform: uppercase;
+ 
 }
 
 button{
@@ -34,3 +42,9 @@ button{
 p{
     text-align: justify;
 }
+
+.card {
+    text-align: justify;
+    font-family: 'Nunito', sans-serif;
+}
+
